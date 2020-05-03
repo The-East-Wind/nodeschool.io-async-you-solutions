@@ -1,0 +1,17 @@
+{
+  "name": "async-you",
+  "version": "1.0.0",
+  "description": "nodeschool.io async-you workshop solution",
+  "dependencies": {
+    "async": "^3.2.0"
+  },
+  "keywords": [
+    "node",
+    "school",
+    "javascript",
+    "async",
+    "io"
+  ],
+  "author": "The-East-Wind",
+  "license": "ISC"
+}
