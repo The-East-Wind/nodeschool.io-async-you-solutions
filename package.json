@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "nodeschool.io async-you workshop solution",
   "dependencies": {
-    "async": "^3.2.0"
+    "async": "^3.2.2"
   },
   "keywords": [
     "node",
